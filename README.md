@@ -4,7 +4,7 @@ This project is moodle platform courses downloader (scrapes available resources 
 	
 ## Technologies
 Project is created with:
-* Python3.9
+* Python3
 	
 ## Setup
 To run this project:
