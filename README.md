@@ -7,9 +7,11 @@ Project is created with:
 * Python3.9
 	
 ## Setup
-To run this project, install it locally using pip:
+To run this project:
 
 ```
+$ git clone https://github.com/HazemBZ/moodle_extractor
+$ cd moodle_extractor/
 $ python -m pip install requirements.txt
 $ python main.py
 ```
