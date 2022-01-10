@@ -35,7 +35,7 @@ $ python main.py
     <img src="images/moodle_info2.png" width="600"/>
 </p>
 
-#### 2.Download course resources using script
+#### 2.Download course resources using the script
 After running the script you will be asked to input the required parmeters
 
 <p align="center" >
