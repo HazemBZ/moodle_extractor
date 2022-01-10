@@ -42,4 +42,10 @@ After running the script you will be asked to input the required parmeters
     <img src="images/moodle_ext1.png" width="600"/>
 </p>
 
+#### 3.Profit
+
+<p align="center" >
+    <img src="images/moodle_ext2.png" width="600"/>
+</p>
+
 ❤️ Enjoy ❤️
